@@ -6,7 +6,7 @@ import io
 
 st.set_page_config(page_title="Drawing Book", layout="wide")
 
-st.title("🎨 Drawing Book App")
+st.title("🎨 My Drawing Book")
 
 # ===============================
 # Sidebar - Dashboard 1
